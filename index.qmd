@@ -1,0 +1,51 @@
+---
+title: VanishingVitamin
+---
+
+Welcome to VanishingVitamin!
+
+## Project Collaborators
+
+-   Freya Rowland [frowland\@usgs.gov](mailto:frowland@usgs.gov){.email}
+
+-   Christopher Suffridge [suffridc\@oregonstate.edu](mailto:suffridc@oregonstate.edu){.email}
+
+-   Jacques Rinchard [jrinchar\@brockport.edu](#0){.email}
+
+-   David Walters [waltersd\@usgs.gov](mailto:waltersd@usgs.gov){.email}
+
+-   Dale Honeyfield [honeyfielddale\@gmail.com](mailto:honeyfielddale@gmail.com){.email}
+
+-   Samuel Hylander [samuel.hylander\@lnu.se](mailto:samuel.hylander@lnu.se){.email}
+
+-   Donalt Tillitt [dtillitt\@usgs.gov](#0){.email}
+
+-   Rachel Johnson [rachel.johnson\@noaa.gov](#0){.email}
+
+-   Clifford Kraft [cek7\@cornell.edu](mailto:cek7@cornell.edu){.email}
+
+-   Kelly Shannon [shannonk\@oregonstate.edu](mailto:shannonk@oregonstate.edu){.email}
+
+-   Matthew Futia [Matthew.Futia\@uvm.edu](mailto:Matthew.Futia@uvm.edu){.email}
+
+-   Nate Mantua - NOAA Federal [nate.mantua\@noaa.gov](mailto:nate.mantua@noaa.gov){.email}
+
+-   Vittoria Todisco [vittoria.todisco\@lnu.se](mailto:vittoria.todisco@lnu.se){.email}
+
+-   Marc Hauber [marc.hauber\@lnu.se](mailto:marc.hauber@lnu.se){.email}
+
+-   Miles Daniels [miles.daniels\@noaa.gov](#0){.email}
+
+-   Caroline Ek [caroline.ek\@slu.se](#0){.email}
+
+-   Elin Dahlgren [elin.dahlgren\@slu.se](mailto:elin.dahlgren@slu.se){.email}
+
+-   Manne Larsson [manne.larsson\@slu.se](#0){.email}
+
+-   Jenni Prokkola [jenni.prokkola\@luke.fi](mailto:jenni.prokkola@luke.fi){.email}
+
+-   Kathrine Howard[kathrine.howard\@noaa.gov](mailto:kathrine.howard@noaa.gov){.email}
+
+-   Abigail Ward [abigail.ward35\@gmail.com](mailto:abigail.ward35@gmail.com){.email}
+
+-   Joe Zemmels (app developer) [jzemmels\@usgs.gov](jzemmels@usgs.gov)
