@@ -1,0 +1,19 @@
+name: Deploy Quarto Site
+
+on:
+  push:
+    branches: main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # To allow GitHub Actions to write to the repository
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Install Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+      - name: Render and Publish
+        run: |
+          quarto publish gh-pages --no-render # Render is handled by quarto publish
