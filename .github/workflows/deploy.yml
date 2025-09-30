@@ -10,14 +10,18 @@ permissions:
   contents: read
 
 concurrency:
-  group: ${{ github.workflow }}
-  cancel-in-progress: true
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -25,21 +29,21 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
         with:
           version: pre-release
-      # Add any additional steps as needed, such as installing dependencies
       - name: "Build"
         shell: bash
         run: |
-          [ ! -f _quarto.yml ] && echo -e "project:\n  output-dir: docs" > _quarto.yml
-          if grep -q "output-dir: docs" _quarto.yml; then
+          [ ! -f _quarto.yml ] && echo -e "project:\n  output-dir: _site" > _quarto.yml
+          if grep -q "output-dir: _site" _quarto.yml; then
             quarto render
           else
-            quarto render --output-dir docs
+            quarto render --output-dir _site
           fi
+      - name: "Configure GitHub Pages"
+        uses: actions/configure-pages@v5
+      - name: "Upload Pages Artifact"
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "_site"
       - name: "Deploy"
-        shell: bash
-        run: |
-          git config --local user.name github-actions[bot]
-          git config --local user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add docs || echo "No changes."
-          git commit -m "ci: quarto render" || echo "No changes."
-          git push origin || echo "No changes."
+        id: deployment
+        uses: actions/deploy-pages@v4
