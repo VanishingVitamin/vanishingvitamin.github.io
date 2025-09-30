@@ -3,6 +3,10 @@
 .RData
 .Ruserdata
 docs
+_site
+!_site/.empty
 
 /.quarto/
 **/*.quarto_ipynb
+*html
+*_files/
