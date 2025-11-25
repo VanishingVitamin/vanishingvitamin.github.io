@@ -2,13 +2,13 @@
 title: VanishingVitamin
 ---
 
-Welcome to VanishingVitamin!
+Welcome to Vanishing Vitamin! We are a group of researchers interested in thiamine (vitamin B~1~) deficiency in salmon and trout.
 
 ## Project Collaborators
 
 -   Freya Rowland [frowland\@usgs.gov](mailto:frowland@usgs.gov){.email}
 
--   Christopher Suffridge [suffridc\@oregonstate.edu](mailto:suffridc@oregonstate.edu){.email}
+-   Chris Suffridge [suffridc\@oregonstate.edu](mailto:suffridc@oregonstate.edu){.email}
 
 -   Jacques Rinchard [jrinchar\@brockport.edu](#0){.email}
 
@@ -18,7 +18,7 @@ Welcome to VanishingVitamin!
 
 -   Samuel Hylander [samuel.hylander\@lnu.se](mailto:samuel.hylander@lnu.se){.email}
 
--   Donalt Tillitt [dtillitt\@usgs.gov](#0){.email}
+-   Don Tillitt [dtillitt\@usgs.gov](#0){.email}
 
 -   Rachel Johnson [rachel.johnson\@noaa.gov](#0){.email}
 
@@ -26,11 +26,11 @@ Welcome to VanishingVitamin!
 
 -   Kelly Shannon [shannonk\@oregonstate.edu](mailto:shannonk@oregonstate.edu){.email}
 
--   Matthew Futia [Matthew.Futia\@uvm.edu](mailto:Matthew.Futia@uvm.edu){.email}
+-   Matt Futia [mttfta27\@outlook.com](mailto:mttfta27@outlook.com){.email}
 
--   Nate Mantua - NOAA Federal [nate.mantua\@noaa.gov](mailto:nate.mantua@noaa.gov){.email}
+-   Nate Mantua [nate.mantua\@noaa.gov](mailto:nate.mantua@noaa.gov){.email}
 
--   Vittoria Todisco [vittoria.todisco\@lnu.se](mailto:vittoria.todisco@lnu.se){.email}
+-   Vittoria Todisco [vittoriatodisco30\@gmail.com](mailto:vittoriatodisco30@gmail.com)
 
 -   Marc Hauber [marc.hauber\@lnu.se](mailto:marc.hauber@lnu.se){.email}
 
@@ -44,8 +44,8 @@ Welcome to VanishingVitamin!
 
 -   Jenni Prokkola [jenni.prokkola\@luke.fi](mailto:jenni.prokkola@luke.fi){.email}
 
--   Kathrine Howard[kathrine.howard\@noaa.gov](mailto:kathrine.howard@noaa.gov){.email}
+-   Kathrine Howard [kathrine.howard\@noaa.gov](mailto:kathrine.howard@noaa.gov){.email}
 
--   Abigail Ward [abigail.ward35\@gmail.com](mailto:abigail.ward35@gmail.com){.email}
+-   Abigail Ward [abeward\@ucsc.edu](mailto:abeward@ucsc.edu)
 
 -   Joe Zemmels (app developer) [jzemmels\@usgs.gov](jzemmels@usgs.gov)
