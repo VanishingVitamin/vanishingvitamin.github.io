@@ -22,7 +22,7 @@ Welcome to Vanishing Vitamin! We are a group of researchers interested in thiami
 
 -   Rachel Johnson [rachel.johnson\@noaa.gov](#0){.email}
 
--   Clifford Kraft [cek7\@cornell.edu](mailto:cek7@cornell.edu){.email}
+-   Cliff Kraft [cek7\@cornell.edu](mailto:cek7@cornell.edu){.email}
 
 -   Kelly Shannon [shannonk\@oregonstate.edu](mailto:shannonk@oregonstate.edu){.email}
 
@@ -44,8 +44,8 @@ Welcome to Vanishing Vitamin! We are a group of researchers interested in thiami
 
 -   Jenni Prokkola [jenni.prokkola\@luke.fi](mailto:jenni.prokkola@luke.fi){.email}
 
--   Kathrine Howard [kathrine.howard\@noaa.gov](mailto:kathrine.howard@noaa.gov){.email}
+-   Katie Howard [kathrine.howard\@noaa.gov](mailto:kathrine.howard@noaa.gov){.email}
 
--   Abigail Ward [abeward\@ucsc.edu](mailto:abeward@ucsc.edu)
+-   Abbie Ward [abeward\@ucsc.edu](mailto:abeward@ucsc.edu)
 
 -   Joe Zemmels (app developer) [jzemmels\@usgs.gov](jzemmels@usgs.gov)
