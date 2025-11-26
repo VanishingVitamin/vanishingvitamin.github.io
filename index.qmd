@@ -2,7 +2,11 @@
 title: VanishingVitamin
 ---
 
-Welcome to Vanishing Vitamin! We are a group of researchers interested in thiamine (vitamin B~1~) deficiency in salmon and trout.
+Welcome to Vanishing Vitamin! We are a group of researchers interested in thiamine (vitamin B~1~) deficiency in salmon and trout. Our working group, co-funded by the National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) and [US Geological Survey's John Wesley Powell Center for Analysis and Synthesis,](https://www.usgs.gov/centers/john-wesley-powell-center-for-analysis-and-synthesis) is exploring the mystery of why thiamine deficiency seems to be increasing.
+
+Thiamine Deficiency Complex (TDC) is a global threat to the stability and persistence of wildlife populations. TDC generally manifests as partial or complete reproductive failure due to low body thiamine concentrations in early life stages. Despite substantial research efforts over the past three decades, the ultimate drivers leading to TDC remain unknown to science. TDC research has historically been focused on a fisheries management approach with the goal of developing treatments for TDC to mitigate TDC-related fisheries losses. These efforts have identified parental consumption of forage fish with thiamine degrading enzymes as the leading causes of TDC. Recently, evidence has emerged that aquatic ecosystem-level shifts in the microbial production of thiamine at the base of the food web may be an important driver of observed incidences of TDC.
+
+We are an international team of TDC experts with specialties ranging from microbiology to ocean fisheries leveraging the expert knowledge of our team and three decades of research to finally connect the dots and elucidate the causes of TDC in fishes, which will guide the direction of the next generation of TDC research.
 
 ## Project Collaborators
 
@@ -39,8 +43,6 @@ Welcome to Vanishing Vitamin! We are a group of researchers interested in thiami
 -   Caroline Ek [caroline.ek\@slu.se](#0){.email}
 
 -   Elin Dahlgren [elin.dahlgren\@slu.se](mailto:elin.dahlgren@slu.se){.email}
-
--   Manne Larsson [manne.larsson\@slu.se](#0){.email}
 
 -   Jenni Prokkola [jenni.prokkola\@luke.fi](mailto:jenni.prokkola@luke.fi){.email}
 
