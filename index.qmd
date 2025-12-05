@@ -1,7 +1,7 @@
 ---
-title: VanishingVitamin
+title: Vanishing Vitamin
 ---
-## Welcome
+
 
 Welcome to Vanishing Vitamin! We are a group of researchers interested in thiamine (vitamin B~1~) deficiency in salmon and trout. Our working group, co-funded by the National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) and [US Geological Survey's John Wesley Powell Center for Analysis and Synthesis,](https://www.usgs.gov/centers/john-wesley-powell-center-for-analysis-and-synthesis) is exploring the mystery of why thiamine deficiency seems to be increasing.
 
@@ -50,5 +50,9 @@ We are an international team of TDC experts with specialties ranging from microb
 -   Katie Howard [kathrine.howard\@noaa.gov](mailto:kathrine.howard@noaa.gov){.email}
 
 -   Abbie Ward [abeward\@ucsc.edu](mailto:abeward@ucsc.edu)
+
+-   Peggy Harte [mharte\@ucdavis.edu](mailto:mharte@ucdavis.edu)
+
+-   Becca VanArnam [rlvanarnam\@ucdavis.edu](mailto:rlvanarnam@ucdavis.edu)
 
 -   Joe Zemmels (app developer) [jzemmels\@usgs.gov](jzemmels@usgs.gov)
