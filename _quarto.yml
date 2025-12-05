@@ -11,6 +11,9 @@ website:
       - about.qmd
       - href: learnmore.qmd
         text: "Learn more"
+      - href: team.qmd
+        text: "Meet the team"
+
     right:
       - href: https://rconnect.usgs.gov/vanishing-vitamin-app/
         target: _blank
