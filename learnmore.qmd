@@ -1,0 +1,5 @@
+---
+title: "Learn more about thiamine deficiency"
+---
+
+This is where we can perhaps paste our educational content from the ShinyApp
